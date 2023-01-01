@@ -1,2 +1,2 @@
-# Open-Microsoft-Tabss
-Opens Microsoft Tabss
+# Open-Microsoft-Tabs
+Opens Microsoft Tabs
